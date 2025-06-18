@@ -1,0 +1,186 @@
+nct_id,study_title,inclusion_criteria,inclusion_criteria_questions
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1、60 years or more at time of transplantation
+2、Acute leukemia
+3、Myelodysplastic syndrome
+4、Myeloproliferative neoplasm","[""Is the patient 60 years or more at the time of transplantation?"", ""Does the patient have acute leukemia?"", ""What is the age of the patient at the time of transplantation?"", ""Is the patient diagnosed with myelodysplastic syndrome?"", ""What type of neoplasm does the patient have - myeloproliferative neoplasm?""]"
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1、12 and 16 years,
+2、Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3、Having access to internet and parental or legal caregiver consent","[""Are you between 12 and 16 years old?"", ""Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?"", ""Do you have access to the internet?"", ""Do you have parental or legal caregiver consent?""]"
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1、Academicians who do not have any communication problems
+2、Do not have psychological problems","[
+    {
+        ""question"": ""Are you an academician?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Do you have any communication problems?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Do you experience psychological problems?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    }
+]
+"
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1、BMI over 45
+2、Ability to understand the legal background of a study","[""Is your BMI over 45?"", ""Do you have the ability to understand the legal background of a study?"", ""What is your current BMI? (Fill in the blank)""]"
+NCT05514626,Three-dimensional (3D) Holographic Display for Ultrasound-Guided Structural Heart Disease Procedures,"1、Patients over the age of 18
+2、Patients are scheduled to undergo an elective procedure in the Cardiac Catheterization Laboratory which use 3D echocardiography (ECHO) as part of the procedure.","[
+    {
+        ""question"": ""Are you over the age of 18?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Are you scheduled to undergo an elective procedure?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""If yes to the previous question, is the elective procedure in the Cardiac Catheterization Laboratory?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Will the elective procedure in the Cardiac Catheterization Laboratory involve the use of 3D echocardiography (ECHO)?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    }
+]
+"
+NCT04815798,"A Randomized, Double-blind Study to Evaluate the Safety, Tolerability, and Potential Efficacy of BACTELIDE vs. Placebo in Addition to Standard-of-care Therapy for S. Aureus, P. Aeruginosa, and K. Pneumoniae Colonized Pressure Injuries","1、Provision of signed and dated informed consent form
+2、Stated willingness to comply with all study procedures and availability for the duration of the study
+3、Stated willingness to comply with lifestyle considerations
+4、Male or female, 18 years or older presenting in long-term care facilities, out-patient department or in-hospital patients with a stage II, III or IV pressure injury with or without local signs of infection with a size not exceeding 28 cm2
+5、Within 72 hours before randomization, pressure injury specimen positive for S. aureus, P. aeruginosa, or K. pneumoniae determined by qPCR or rapid diagnostic test or conventional method or positive growth on specific agar.
+6、For females of reproductive potential: use of a highly effective contraception for at least 1 month prior to screening and agreement to use such a method during study participation and for an additional 4 weeks after the end of administration of the study intervention
+7、For males of reproductive potential: use of condoms or other methods to ensure effective contraception with partner.","[
+    {
+        ""question"": ""Have you provided a signed and dated informed consent form?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Are you willing to comply with all study procedures and available for the duration of the study?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Are you willing to comply with lifestyle considerations?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""What is your age?"",
+        ""type"": ""1""
+    },
+    {
+        ""question"": ""Do you currently have a stage II, III, or IV pressure injury with or without local signs of infection, and does the size not exceed 28 cm2?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""Within the last 72 hours before randomization, was your pressure injury specimen positive for S. aureus, P. aeruginosa, or K. pneumoniae as determined by qPCR, rapid diagnostic test, conventional method, or positive growth on specific agar?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""For females of reproductive potential, have you been using a highly effective contraception for at least 1 month prior to screening, and do you agree to use such a method during the study and for an additional 4 weeks after the end of administration of the study intervention?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    },
+    {
+        ""question"": ""For males of reproductive potential, are you using condoms or other methods to ensure effective contraception with your partner?"",
+        ""type"": ""2"",
+        ""option"": [""Yes"", ""No""]
+    }
+]
+"
+NCT05426928,"Development of a Computational, Thermodynamic Model of Intraabdominal Hyperthermia in Humans Undergoing HIPEC","1、Adults (at least 18 years or older)
+2、Scheduled to undergo HIPEC surgery for abdominal cancer at HFH-Main","[""Are you at least 18 years old?"", ""Are you scheduled to undergo HIPEC surgery for abdominal cancer at HFH-Main?""]"
+NCT06144827,Pilot Study to Assess the Role of Blood-based Biomarkers and Quantitative MR Imaging,"1、Patient has the psychological ability and general health needed to provide informed consent, completion of study requirements, and required follow-up
+2、Patient provides study-specific informed consent prior to study entry
+3、All primary histologies (Hepatocellular carcinoma or Cholangiocarcinoma) as well as hepatic metastases are eligible
+4、Prior history of radiation therapy (external beam or radioembolization) is allowed, with no limit to the number of prior courses of radiation therapy
+5、Any number of lesions (with no size limit) of pathologically documented (histologically or cytologically) or radiographically proven tumor/metastasis that are being targeted
+6、Prior history of chemotherapy, immunotherapy, or targeted biological therapy is allowed
+7、Concurrent enrollment on other prospective registry or treatment intention trials is allowed","[""Do you have the psychological ability and general health needed to provide informed consent, complete study requirements, and undergo required follow-up?"", ""Have you provided study-specific informed consent prior to study entry?"", ""Do you have either Hepatocellular carcinoma or Cholangiocarcinoma as your primary histology? (Yes/No)"", ""Have you undergone any prior history of radiation therapy (external beam or radioembolization)?"", ""How many prior courses of radiation therapy have you had? (Fill in the blank)"", ""Do you have any lesions (with no size limit) that are pathologically documented (histologically or cytologically) or radiographically proven tumor/metastasis being targeted?"", ""Have you had a prior history of chemotherapy, immunotherapy, or targeted biological therapy?"", ""Are you concurrently enrolled in other prospective registry or treatment intention trials?""]"
+NCT04286542,Identification of Mediators Associated With Presence of Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1、18-65 years
+2、positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3、VAS-score >5 for rhino(sinus)itis symptoms","[""What is your age?"", ""Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)"", ""Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)"", ""Is your VAS-score for rhino(sinus)itis symptoms greater than 5?""]"
+NCT04368884,"A Prospective, Longitudinal, Observational Study to Assess the Seroconversion Status of Front Line Health Care Workers and Comparison With the Suspected or Confirmed Cases of COVID-19 Patients at Max Health Care (Project D)","1、Healthcare workers of Max Hospital, irrespective of age and gender OR
+2、COVID-19 positive patients admitted in the hospital OR
+3、Out-patients getting tested for COVID-19","[""Are you a healthcare worker at Max Hospital?"", ""Are you a COVID-19 positive patient admitted to the hospital?"", ""Are you an out-patient getting tested for COVID-19?"", ""What is your age?""]"
+NCT05516472,"Fecal Microbiota Transplantation (FMT CAPSULE DE, FMPCapDE, MTP-CP101) in Kidney Stone Patients (FMT IND STUDY)","1、Women and men age >18 and <70
+2、Recent medical history of USD with >60% calcium-oxalate stones. All patients will have urinary stone disease confirmed by stone analysis. The study will include patients with either stones extracted by urological intervention or spontaneously passed and collected stones. We will enroll recurrent urinary stone formers who have had a stone event in the preceding 24 months, but no sooner than within 4 weeks if they did not receive antibiotics and not after three months if they did receive antibiotics.
+3、24-hour urinary calcium concentration >225 mg/day or urinary oxalate >40 mg/day
+4、Able to give informed consent.
+5、Willing to undergo telephone follow-up to assess for safety and adverse events
+6、Willing and able to participate in the study requirements, including study visits, 24-hour urine collection and serial stool collection
+7、Not actively participating in another interventional USD clinical trial
+8、Estimated Glomerular Filtration Rate (eGFR) greater than or equal to 60.","[""Are you between 18 and 70 years old?"", ""Have you had a recent medical history of USD with >60% calcium-oxalate stones confirmed by stone analysis?"", ""Have you had urinary stones extracted by urological intervention or spontaneously passed and collected stones?"", ""Have you had a stone event in the preceding 24 months?"", ""If yes, did you receive antibiotics within 4 weeks of the stone event? (Fill in the blank)"", ""If no, did you receive antibiotics after three months of the stone event? (Fill in the blank)"", ""Is your 24-hour urinary calcium concentration greater than 225 mg/day?"", ""Is your urinary oxalate concentration greater than 40 mg/day?"", ""Are you able to give informed consent?"", ""Are you willing to undergo telephone follow-up to assess for safety and adverse events?"", ""Are you willing and able to participate in the study requirements, including study visits, 24-hour urine collection, and serial stool collection?"", ""Are you actively participating in another interventional USD clinical trial?"", ""Is your Estimated Glomerular Filtration Rate (eGFR) greater than or equal to 60?""]"
+NCT05057910,Evaluation of SARS-CoV-2 RBD Antibody in Vaccinated Healthcare Workers at My Duc Hospital: a Cross-sectional Study,"1、Above 18 years old
+2、Being vaccinated with at least one dose of ChAdOx1 nCoV-19
+3、Accepted to take part in the study","[""Are you above 18 years old?"", ""Have you been vaccinated with at least one dose of ChAdOx1 nCoV-19?"", ""Have you accepted to take part in the study?"", ""What is your age?""]"
+NCT04187482,Functional and Cellular Benefits of Aerobic Exercise in Myotonic Dystrophy Type 1 Patients,"1、DM1 participants:
+2、Male or female clinically diagnosed with DM1
+3、CTG repeats 100-1000
+4、Normal weight (BMI 18.5 - 24.9 kg/m2) or overweight (BMI 25 - 29.9 kg/m2)
+5、Age matched controls:
+6、Healthy men and women
+7、Normal weight (BMI 18.5 - 24.9 kg/m2) or overweight (BMI 25 - 29.9 kg/m2)
+8、Physically inactive (< 1-2 hour of formal exercise/week)","[""Are you clinically diagnosed with DM1?"", ""What is your CTG repeats count? (Fill in the blank)"", ""Are you within the normal weight range (BMI 18.5 - 24.9 kg/m2) or overweight (BMI 25 - 29.9 kg/m2)?"", ""Are you 60 years or more at the time of enrollment?"", ""Are you diagnosed with acute leukemia?"", ""Do you fall within the BMI range of 18.5 - 24.9 kg/m2 or 25 - 29.9 kg/m2?"", ""Are you physically inactive (engaging in < 1-2 hours of formal exercise per week)?"", ""Have you been diagnosed with myelodysplastic syndrome?"", ""Have you been diagnosed with myeloproliferative neoplasm?""]"
+NCT05897346,Learning While Serving: Training Secondary School Students as Anti-smoke Ambassadors Using the Service-learning Model,1、secondary school students (Forms 2-4),"[""Are you a secondary school student?"", ""What grade are you currently in? (Fill in the blank)""]"
+NCT04037462,Induction of Sensecence Using Dexamethasone to Re-sensitize NSCLC to Anti-PD1 Therapy,"1、Be willing and able to provide written informed consent/assent for the trial.
+2、Be 18 years of age on day of signing informed consent.
+3、Have a life expectancy of at least 6 months.
+4、Have a histologically confirmed diagnosis of stage IV NSCLC (includes patients who have progressed on durvalumab for Stage III NSCLC) and have at least one measurable lesion based on RECIST v1.1.
+5、Have a performance status of 0, 1 or 2 on the ECOG Performance Scale (Appendix 15.1).
+6、Demonstrate adequate organ function all screening labs should be performed within 14 days of enrollment.
+7、Female subject of childbearing potential should have a serum pregnancy within 14 days of enrollment and 72 hours prior to receiving the first dose of study medications.
+8、Female subjects of childbearing potential must be willing to use a highly effective method of contraception as outlined in Section 6.3.3 for the course of the study through 180 days after the last dose of study medications.
+9、Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the subject.
+10、Male subjects of childbearing potential must agree to use an adequate method of contraception starting with the first dose of study therapy through 180 days after the last dose of study therapy.
+10、Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the subject.
+11、Adequate tissue sample for correlative studies. A new sample is not necessary if archival specimen is available and has adequate amount of tumor content (at least 30%). This needs to be determined by a pathologist.","[""Are you willing and able to provide written informed consent/assent for the trial?"", ""What is your age on the day of signing informed consent? (Fill in the blank)"", ""What is your life expectancy? (Fill in the blank)"", ""Do you have a histologically confirmed diagnosis of stage IV NSCLC?"", ""Do you have at least one measurable lesion based on RECIST v1.1?"", ""What is your performance status on the ECOG Performance Scale? (Choose one)"", ""Have all screening labs been performed within 14 days of enrollment?"", ""Are you a female subject of childbearing potential?"", ""What is the result of your serum pregnancy test within 14 days of enrollment? (Fill in the blank)"", ""Are you willing to use a highly effective method of contraception for the course of the study through 180 days after the last dose of study medications? (Choose one)"", ""Is abstinence your usual lifestyle and preferred contraception method? (Choose one)"", ""Are you a male subject of childbearing potential?"", ""Are you willing to use an adequate method of contraception for the course of the study through 180 days after the last dose of study therapy? (Choose one)"", ""Is abstinence your usual lifestyle and preferred contraception method? (Choose one)"", ""Do you have an adequate tissue sample for correlative studies?"", ""If an archival specimen is available, does it have an adequate amount of tumor content (at least 30%)? (Choose one)""]"
+NCT05536739,Powered Hip Exoskeleton for Stroke Survivors With Gait Impairment,"1、Previous history of stroke with a physician's approval to safely perform the experimental activities.
+2、The stroke must have occurred at least 6 months prior to study involvement.
+3、Aged between 18-85 years of age.
+4、Score greater than 17 on the mini-mental state examination (MMSE).
+5、Able to sit unsupported for minimum of 30 seconds.
+6、Able to follow a 3 step command.
+7、Must be able to walk without support (a rail as needed is allowed), with a walking speed of at least 0.4 m/s (limited community ambulatory speed).
+8、Must be able to walk for at least 6 minutes.
+9、Must be willing and able to participate in a 1-4 hour experiment, with breaks enforced regularly and as needed .
+10、Must be able to transfer (sit-to-stand and stand-to-sit) with no external support (arm rests support allowed).
+11、Must be able to ambulate over small slopes (3 degrees) and a few steps (6 steps).","[""Do you have a previous history of stroke with a physician's approval to safely perform the experimental activities?"", ""When did your stroke occur? (Fill in the blank)"", ""Are you between 18 and 85 years of age?"", ""What is your score on the mini-mental state examination (MMSE)? (Fill in the blank)"", ""Can you sit unsupported for a minimum of 30 seconds?"", ""Can you follow a 3-step command?"", ""Are you able to walk without support (a rail as needed is allowed) with a walking speed of at least 0.4 m/s (limited community ambulatory speed)?"", ""How many minutes can you walk continuously? (Fill in the blank)"", ""Are you willing and able to participate in a 1-4 hour experiment, with breaks enforced regularly and as needed?"", ""Can you transfer (sit-to-stand and stand-to-sit) with no external support (arm rests support allowed)?"", ""Can you ambulate over small slopes (3 degrees) and a few steps (6 steps)?""]"
+NCT04855994,"Comparison of the Results of Ultrasound-Guided Thoracic Paravertebral Block and Modified Pectoral Nerve Block for Postoperative Analgesia in Video-Assisted Thoracoscopic Surgery; A Prospective, Randomized Controlled Study","1、Ages of 18-65
+2、Patients who will undergo VATS
+3、ASA I-II-III patients","[""Are you between 18 and 65 years old?"", ""Will you undergo VATS (Video-Assisted Thoracic Surgery)?"", ""What is your ASA (American Society of Anesthesiologists) classification? (Fill in the blank)"", ""Have you been diagnosed with ASA I, II, or III?""]"
+NCT05052294,COVID-19 Antibody Responses In Cystic Fibrosis: CAR-CF,"1、Consenting people with cystic fibrosis of any age, genotype, transplant status and disease severity","[""Do you have cystic fibrosis?"", ""What is your age?"", ""What is your genotype?"", ""Have you undergone transplantation?"", ""What is the severity of your disease?""]"
+NCT05508217,Impact of Telomere Biology and Sperm DNA Fragmentation on Embryonic Development,"1、Men of any age who come to IVI Madrid in the context of a couple's infertility study and who present normozoospermia or semenograms with sperm count >10mill/ml, >25% progressive motility and > 1% normal morphology.","[""Are you a man participating in a couple's infertility study at IVI Madrid?"", ""Do you have normozoospermia?"", ""What is your sperm count per milliliter? (Fill in the blank)"", ""What is the percentage of your progressive motility? (Fill in the blank)"", ""What is the percentage of your normal sperm morphology? (Fill in the blank)""]"
+NCT03886727,Clinical Retention of Bonded Resin Sealants Placed With Rubber Dam Versus Cotton Roll Isolation,"1、Teeth having a clinical indication of sealing with bonded resin pit and fissure sealants
+2、Patients with four fully-erupted permanent molars, with unstained, caries-free and unsealed pit and fissures","[""Do you have teeth with a clinical indication of sealing with bonded resin pit and fissure sealants?"", ""How many fully-erupted permanent molars do you have?"", ""Are your permanent molars unstained, caries-free, and unsealed in the pit and fissures?"", ""Do you currently have any sealed pit and fissures on your teeth?""]"
+NCT05691413,"The Safety and Efficacy of Facial Cleanser Containing Combination of Olive Oil, Virgin Coconut Oil, Butylene Glycol and Hyaluronic Acid on Skin Hydration and Skin Elasticity","1、Malaysia citizen
+2、Male and female (age 35-55 years old)","[""Are you a citizen of Malaysia?"", ""What is your gender?"", ""What is your age? (Please provide in years)""]"
+NCT05041855,Family Inclusive Childhood Obesity Treatment Designed for Low Income and Hispanic Families,"1、Child aged 2-16yrs
+2、With overweight or obesity (BMI >85th percentile)
+3、Referred by PCP
+4、Primary Adult Caregiver
+5、Up to two siblings of any BMI status (if multiple siblings are available, enrollment goals stratified by age and BMI will be used to select siblings for enrollment.)","[""What is the age of the child?"", ""Does the child have overweight or obesity? (BMI >85th percentile)"", ""Were you referred by your Primary Care Physician (PCP)?"", ""Are you the primary adult caregiver?"", ""How many siblings do you have, and what is their BMI status? (Fill in the blank)""]"
+NCT04022915,PET Fibrin Imaging of DVT and PE,"1、18 years of age or older with a clinically significant pulmonary embolus (PE) confirmed by a filling defect in CT angiography (CTA), and
+2、Subjects must receive the radiotracer injection within 72 hours of their diagnosis.","[""Are you 18 years of age or older?"", ""Have you been diagnosed with a clinically significant pulmonary embolus (PE) confirmed by a filling defect in CT angiography (CTA)?"", ""When were you diagnosed with a pulmonary embolus (PE)? (Fill in the blank)"", ""Will you receive the radiotracer injection within 72 hours of your diagnosis?""]"
+NCT05499936,Peking Union Medical College Hospital,"1、patients with ACC suspected metastatic tumor,and being able to provide basic information and sign the written informed consent form","[""Do you suspect having a metastatic tumor with ACC?"", ""Are you able to provide basic information?"", ""Are you willing to sign the written informed consent form?"", ""What basic information can you provide? (Fill in the blank)""]"
+NCT06137079,"""Iron Overload and Endocrinological Diseases""","1、Certain diagnosis of ?°?thalassemia major or intermedia
+2、Certain diagnosis of Hereditary Hemochromatosis
+3、Adult patients with an age between 18 and 65 years","[""Do you have a certain diagnosis of \u03b1-thalassemia major or intermedia?"", ""Do you have a certain diagnosis of Hereditary Hemochromatosis?"", ""Are you between 18 and 65 years old?"", ""What is the specific diagnosis you have for \u03b1-thalassemia (Fill in the blank)?"", ""What is the specific diagnosis you have for Hereditary Hemochromatosis (Fill in the blank)?""]"
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1、able to understand and respond to questions or instructions in English
+2、working telephone
+3、willingness to consume protein-containing animal products,
+4、willingness to make changes to the diet","[""Are you able to understand and respond to questions or instructions in English?"", ""Do you have a working telephone?"", ""Are you willing to consume protein-containing animal products?"", ""Are you willing to make changes to your diet?"", ""What specific changes are you willing to make to your diet? (Fill in the blank)""]"
+NCT05836792,The Effect of Cycle Ergometer With Biofeedback on Deep Sensation in Elderly Patients With Knee Osteoarthritis,1、Knee osteoarthritis (Kellgren-Lawrance score between 1-3),"[""Do you have knee osteoarthritis?"", ""What is your Kellgren-Lawrance score? (Fill in the blank)""]"
+NCT04881526,Ketone Ester Supplementation on Neuro-cardiovascular Responses to Stress in Humans,"1、18 to 40 years of age
+2、Healthy, free of known cardiovascular, metabolic, or musculoskeletal disease","[""How old are you?"", ""Do you fall within the age range of 18 to 40 years?"", ""Are you currently free of known cardiovascular diseases?"", ""Are you currently free of known metabolic diseases?"", ""Do you have any known musculoskeletal diseases?"", ""If yes, please specify the musculoskeletal disease(s) you have. (Fill in the blank)""]"

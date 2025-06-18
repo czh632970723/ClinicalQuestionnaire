@@ -1,0 +1,785 @@
+nct_id,official_title,inclusion_criteria,answer,eval_result,
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '80*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '6 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'No', 'What is your platelet count? (Fill in the blank)': '45*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'No', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '2 months', 'Is your life expectancy at least 3 months?': 'No', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the inclusion criteria due to a platelet count of 45¡Á10^9/L (below the minimum requirement of 50¡Á10^9/L), a Child-Pugh score that is not A or B (>7), and a life expectancy of 2 months (below the minimum requirement of 3 months).""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'No', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '90*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '8 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'No', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the Child-Pugh score A or grade B criteria (<=7).""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '40*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'No', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '5 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'No', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the platelet count criteria and has not provided informed consent.""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '75*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '4 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'No', 'What is your platelet count? (Fill in the blank)': '60*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '7 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient's platelet count is below the required range for inclusion criteria (50-100¡Á10^9/L).""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '85*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '6 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'No', 'Are you scheduled to undergo hepatectomy?': 'No', 'What is your platelet count? (Fill in the blank)': '55*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'No', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '2 months', 'Is your life expectancy at least 3 months?': 'No', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'No', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the inclusion criteria due to a platelet count of 55*10^9/L (does not fall within the range of 50*10^9/L to 100*10^9/L), a life expectancy of 2 months (does not meet the minimum requirement of 3 months), and renal function that is not normal.""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '70*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '5 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'No', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not have normal bone marrow hematopoiesis.""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '78*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '4 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'No', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '65*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '3 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'No', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the Child-Pugh score criteria (Child-Pugh score A or grade B (<=7)).""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'No', 'What is your platelet count? (Fill in the blank)': '48*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'No', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '2 months', 'Is your life expectancy at least 3 months?': 'No', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the platelet count criteria, life expectancy criteria, and Child-Pugh score criteria.""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'No', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '92*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'No', 'What is your life expectancy? (Fill in the blank)': '7 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'No', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet the Child-Pugh score A or grade B criteria (<=7).""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '42*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'No', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '5 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'No', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient's platelet count is below the required range and bone marrow hematopoiesis is not normal.""
+}
+```",1
+NCT05442632,"Director, Department of Liver Surgery, Fudan University Shanghai Cancer Center","1. Male and female subjects ¡Ý18 years of age£»
+2.Patients prepared to receive hepatectomy£»
+3¡¢50¡Á10^9/L¡Üplatelet count¡Ü100¡Á10^9/L£»
+4.Child-PUgh score A or grade B (¡Ü7 )£»
+5.Lifeexpectancy ¡Ý3 months£»
+6.Normal Bone marrow hematopoiesis and renal function;
+7.Voluntaryparticipation and written informed consent;","{'Are you 18 years of age or older?': 'Yes', 'Are you scheduled to undergo hepatectomy?': 'Yes', 'What is your platelet count? (Fill in the blank)': '79*10^9/?', 'Do you meet the platelet count criteria of 50*10^9/? to 100*10^9/??': 'Yes', 'Is your Child-Pugh score A or grade B (<=7)?': 'Yes', 'What is your life expectancy? (Fill in the blank)': '4 months', 'Is your life expectancy at least 3 months?': 'Yes', 'Do you have normal bone marrow hematopoiesis?': 'Yes', 'Do you have normal renal function?': 'Yes', 'Are you voluntarily participating and have you provided written informed consent?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '55', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is less than 60)""
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '38', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","{
+""result"": ""No"",
+""reason"": ""Patient is 38 years old at the time of transplantation, which does not meet the age requirement of 60 years or older.""
+}",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '49', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is less than 60), does not meet criteria 2 (no acute leukemia), does not meet criteria 3 (no myelodysplastic syndrome), does not meet criteria 4 (no myeloproliferative neoplasm)""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '62', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '41', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is less than 60) and criteria 2 (does not have acute leukemia).""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '34', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","{
+""result"": ""No"",
+""reason"": ""Does not meet criterion 1 (age < 60 at time of transplantation) and criterion 3 (no diagnosis of myelodysplastic syndrome)""
+}",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '47', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is 47, not 60 or older) and criteria 3 (has myelodysplastic syndrome, not acute leukemia or myeloproliferative neoplasm).""
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '56', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient is 56 years old at the time of transplantation, which does not meet the age requirement of 60 years or more.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '40', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is less than 60), does not meet criteria 2 (no acute leukemia), does not meet criteria 3 (no myelodysplastic syndrome), meets criteria 4 (has myeloproliferative neoplasm)""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '53', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age less than 60 at time of transplantation) and criteria 3 (has not been diagnosed with myelodysplastic syndrome)""
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '45', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age at time of transplantation is less than 60)""
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '75', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '42', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Have you been diagnosed with myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet criteria 1 (age < 60 at time of transplantation), criteria 2 (no acute leukemia), criteria 3 (no myelodysplastic syndrome), and criteria 4 (no myeloproliferative neoplasm)""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '42', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient is 42 years old at the time of transplantation, which does not meet the age requirement of 60 years or older.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation 
+ 2¡¢have Acute leukemia 
+ 3¡¢have Myelodysplastic syndrome 
+ 4¡¢have Myeloproliferative neoplasm","{'What is your age at the time of transplantation?': '65', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Have you been diagnosed with myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'Yes', 'Do you have the ability to understand the legal background of a study?': 'No', 'What is your current BMI? (Fill in the blank)': '47.2'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the second criterion for participation as they stated they do not have the ability to understand the legal background of a study.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'No', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '31.5'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the first criterion as their BMI is not over 45.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'No', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '27.6'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient's BMI is 27.6, which is not over 45 as required by the first criterion. However, the patient meets the second criterion as they have the ability to understand the legal background of a study.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'Yes', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '46.8'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+
+",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'No', 'Do you have the ability to understand the legal background of a study?': 'No', 'What is your current BMI? (Fill in the blank)': '33.2'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Does not meet the criteria due to BMI not being over 45 and lacks the ability to understand the legal background of a study.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'Yes', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '49.5'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+
+",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'No', 'Do you have the ability to understand the legal background of a study?': 'No', 'What is your current BMI? (Fill in the blank)': '29.1'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [""BMI is not over 45"", ""Lacks the ability to understand the legal background of a study""]
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'Yes', 'Do you have the ability to understand the legal background of a study?': 'No', 'What is your current BMI? (Fill in the blank)': '46.3'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the second criterion for participation as they stated they do not have the ability to understand the legal background of a study.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'No', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '32.7'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient's BMI is 32.7, which is not over 45 as required by the first criterion for inclusion.""
+}
+```",1
+NCT03938571,Torsby I Trial: A Prospectively Randomized Study on Standard Duodenal Switch vs. Single Anastomosis Duodeno-ileostomy Duodenal Switch,"1¡¢BMI over 45 
+2¡¢Ability to understand the legal background of a study","{'Is your BMI over 45?': 'Yes', 'Do you have the ability to understand the legal background of a study?': 'Yes', 'What is your current BMI? (Fill in the blank)': '48.0'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+
+",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'No', 'Are you willing to consume protein-containing animal products?': 'Yes', 'Are you willing to make changes to your diet?': 'No', 'What specific changes are you willing to make to your diet? (Fill in the blank)': ''}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [""The participant does not have a working telephone which is one of the criteria for inclusion. Additionally, the participant is not willing to make changes to their diet which is also a required criterion.""]
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'No', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'No', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Switch to a plant-based diet'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""Does not meet the criterion of being able to understand and respond to questions or instructions in English."",
+    ""Not willing to consume protein-containing animal products.""
+  ]
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'Yes', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Limit processed food and increase water intake'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'No', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Include more fruits and vegetables in my meals'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for inclusion because they are not willing to consume protein-containing animal products, which is one of the listed requirements.""
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'No', 'Do you have a working telephone?': 'No', 'Are you willing to consume protein-containing animal products?': 'No', 'Are you willing to make changes to your diet?': 'No', 'What specific changes are you willing to make to your diet? (Fill in the blank)': ''}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""The patient is unable to understand and respond to questions or instructions in English."",
+    ""The patient does not have a working telephone."",
+    ""The patient is not willing to consume protein-containing animal products."",
+    ""The patient is not willing to make changes to their diet.""
+  ]
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'Yes', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Reduce red meat and increase fish consumption'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'No', 'Do you have a working telephone?': 'No', 'Are you willing to consume protein-containing animal products?': 'No', 'Are you willing to make changes to your diet?': 'No', 'What specific changes are you willing to make to your diet? (Fill in the blank)': ''}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""Unable to understand and respond to questions or instructions in English"",
+    ""Does not have a working telephone"",
+    ""Not willing to consume protein-containing animal products"",
+    ""Not willing to make changes to the diet""
+  ]
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'Yes', 'Are you willing to make changes to your diet?': 'No', 'What specific changes are you willing to make to your diet? (Fill in the blank)': ''}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for entry because they are not willing to make changes to their diet, which is one of the listed requirements.""
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'Yes', 'Are you willing to consume protein-containing animal products?': 'No', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Switch to a vegetarian diet'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for consumption of protein-containing animal products as they responded 'No' to the question regarding willingness to consume such products.""
+}
+```",1
+NCT04660851,Improving Diet Protein Intake in Middle-aged Women,"1¡¢able to understand and respond to questions or instructions in English
+2¡¢working telephone
+3¡¢willingness to consume protein-containing animal products,
+4¡¢willingness to make changes to the diet","{'Are you able to understand and respond to questions or instructions in English?': 'Yes', 'Do you have a working telephone?': 'No', 'Are you willing to consume protein-containing animal products?': 'Yes', 'Are you willing to make changes to your diet?': 'Yes', 'What specific changes are you willing to make to your diet? (Fill in the blank)': 'Cut down on sugary beverages'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not have a working telephone, which is one of the criteria for participation.""
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'Yes', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '14'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for enrollment as they have experienced disease exacerbations in the 4 weeks prior to their enrollment into the study, which contradicts the requirement of clinical stability without disease exacerbations during this period.""
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'No', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'No', 'Do you have parental or legal caregiver consent?': 'No', 'What is your age?': '21'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""Age is not between 12 and 16 years old as required by the first criterion."",
+    ""Does not have access to the internet which is required by the third criterion."",
+    ""Does not have parental or legal caregiver consent which is required by the fourth criterion.""
+  ]
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '13'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` 
+",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'Yes', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '16'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for enrollment due to having experienced disease exacerbations in the 4 weeks prior to their enrollment into the study.""
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '15'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` ",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'No', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'No', 'What is your age?': '18'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [""Age does not meet the criteria (not between 12 and 16 years old)"", ""Lack of parental or legal caregiver consent""]
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'Yes', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '14'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for enrollment as they have experienced disease exacerbations in the 4 weeks prior to their enrollment into the study, which contradicts the requirement for clinical stability without disease exacerbations during this period.""
+}
+```",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '16'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` ",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'Yes', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'No', 'Do you have access to the internet?': 'Yes', 'Do you have parental or legal caregiver consent?': 'Yes', 'What is your age?': '13'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+``` ",1
+NCT05850351,"The Effect of 12-Week-Virtual Reality Based Tele-Exercises on Exercise Capacity in Cystic Fibrosis Patients: A Randomized Controlled, Single (Assessor)-Blind Study","1¡¢12 and 16 years,
+2¡¢Clinical stability without disease exacerbations in the 4 weeks prior to their enrollment into the study
+3¡¢Having access to internet and parental or legal caregiver consent","{'Are you between 12 and 16 years old?': 'No', 'Have you experienced any disease exacerbations in the 4 weeks prior to your enrollment into the study?': 'Yes', 'Do you have access to the internet?': 'No', 'Do you have parental or legal caregiver consent?': 'No', 'What is your age?': '20'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [""Not within the age range of 12-16 years old"", ""Has experienced disease exacerbations in the 4 weeks prior to enrollment"", ""No access to the internet"", ""No parental or legal caregiver consent""]
+}
+```",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '35', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'No', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'Yes', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""Does not meet the requirement for either group: not positive in the skin prick test for house dust mite (required for the allergic rhinitis group), but has nasal polyps which would be relevant for the chronic rhinosinusitis with nasal polyps group; however, the VAS-score for rhino(sinus)itis symptoms is not greater than 5 as required for both groups.""
+  ]
+}
+```",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '22', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'Yes', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'Yes', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```
+",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '45', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'Yes', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'Yes', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```
+",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '29', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'No', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'No', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [
+    ""Does not meet the requirement for skin prick test positivity for house dust mite (for allergic rhinitis group)"",
+    ""Does not have the presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)"",
+    ""VAS-score for rhino(sinus)itis symptoms is not greater than 5""
+  ]
+}
+```
+",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '38', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'Yes', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'No', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```
+",0
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '27', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'Yes', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'No', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": [""VAS-score for rhino(sinus)itis symptoms is not greater than 5""]
+}
+```
+
+The patient does not meet the criteria for inclusion because their VAS-score for rhino(sinus)itis symptoms is not greater than 5, as per the provided information.",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '32', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'Yes', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'No', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criteria for inclusion because their VAS-score for rhino(sinus)itis symptoms is not greater than 5, which is a required criterion for participation in the study.""
+}
+```",1
+NCT04286542,Mediators in Nasal Hyperreactivity in Allergic Rhinitis and Chronic Rhinosinusitis,"1¡¢18-65 years
+2¡¢positive skin prick test for house dust mite (for allergic rhinitis group), presence of nasal polyps (for chronic rhinosinusitis with nasal polyps group)
+3¡¢VAS-score >5 for rhino(sinus)itis symptoms","{'What is your age?': '36', 'Did you test positive in a skin prick test for house dust mite? (For allergic rhinitis group)': 'No', 'Do you have the presence of nasal polyps? (For chronic rhinosinusitis with nasal polyps group)': 'No', 'Is your VAS-score for rhino(sinus)itis symptoms greater than 5?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": {
+    ""age"": """",
+    ""skin_prick_test"": ""The patient did not test positive in a skin prick test for house dust mite, which is a requirement for the allergic rhinitis group."",
+    ""nasal_polyps"": ""The patient does not have the presence of nasal polyps, which is a requirement for the chronic rhinosinusitis with nasal polyps group."",
+    ""VAS_score"": ""The patient's VAS-score for rhino(sinus)itis symptoms is not greater than 5, which is required for all groups.""
+  }
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'Yes', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Do you suffer from myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not have myelodysplastic syndrome (MDS) or myeloproliferative neoplasm, which are required conditions for transplantation according to the listed criteria.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'No', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Do you suffer from myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient is younger than 60 years at the time of transplantation.""
+}
+```",0
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'No', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Do you suffer from myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient is not 60 years or older at the time of transplantation, and does not have acute leukemia or myelodysplastic syndrome.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'Yes', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Do you suffer from myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not have acute leukemia.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'No', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Do you suffer from myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient is younger than 60 years at the time of transplantation.""
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'Yes', 'Do you have acute leukemia?': 'Yes', 'Have you been diagnosed with myelodysplastic syndrome?': 'Yes', 'Do you suffer from myeloproliferative neoplasm?': 'Yes'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT04375579,Multi-domain Assessment and Quality of Life in Patients Older Than 60 Years Receiving an Allogeneic Hematopoietic Stem Cell Transplantation (HSCT),"1¡¢60 years or more at time of transplantation
+2¡¢Acute leukemia
+3¡¢Myelodysplastic syndrome
+4¡¢Myeloproliferative neoplasm","{'Are you 60 years or older at the time of transplantation?': 'Yes', 'Do you have acute leukemia?': 'No', 'Have you been diagnosed with myelodysplastic syndrome?': 'No', 'Do you suffer from myeloproliferative neoplasm?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not have acute leukemia, myelodysplastic syndrome, or myeloproliferative neoplasm.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'No', 'Do you experience any communication problems?': 'No', 'Do you have any psychological problems?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the criterion of being an academician.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'Yes', 'Do you experience any communication problems?': 'Yes', 'Do you have any psychological problems?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient does not meet standard 1 and standard 2.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'No', 'Do you experience any communication problems?': 'Yes', 'Do you have any psychological problems?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the standard of being an academician.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'Yes', 'Do you experience any communication problems?': 'No', 'Do you have any psychological problems?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""Patient experiences communication problems.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'No', 'Do you experience any communication problems?': 'Yes', 'Do you have any psychological problems?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the standard of 'Academicians who do not have any communication problems' and 'Do not have psychological problems'.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'Yes', 'Do you experience any communication problems?': 'Yes', 'Do you have any psychological problems?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the standard of having no communication problems.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'Yes', 'Do you experience any communication problems?': 'No', 'Do you have any psychological problems?': 'No'}","```json
+{
+  ""result"": ""Yes"",
+  ""reason"": """"
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'No', 'Do you experience any communication problems?': 'No', 'Do you have any psychological problems?': 'Yes'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet standard 1 as they are not an academician.""
+}
+```",1
+NCT05799560,Determination of the Effect of Therapeutic Touch and Reiki Application on Anxiety and Stress Levels in Female Academicians,"1¡¢Academicians who do not have any communication problems 
+2¡¢Do not have psychological problems","{'Are you an academician?': 'No', 'Do you experience any communication problems?': 'Yes', 'Do you have any psychological problems?': 'No'}","```json
+{
+  ""result"": ""No"",
+  ""reason"": ""The patient does not meet the standard of being an academician.""
+}
+```",1
