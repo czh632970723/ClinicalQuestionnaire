@@ -1,0 +1,13 @@
+{
+    "id": "gwh-wenjuan2",
+    "name": "简单问卷2.0",
+    "version": "1.1.1",
+    "description": "基于uni-ui的简单问卷再封装，支持用户定义",
+    "keywords": [
+        "简单问卷",
+        "级联",
+        "uni-ui",
+        "预制",
+        "题目"
+    ]
+}
